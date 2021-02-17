@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About | Beth Barnham
+title: About
 ---
 
 Hey, I'm Beth &#128075;&#127995;
