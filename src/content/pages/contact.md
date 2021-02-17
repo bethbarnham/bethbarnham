@@ -1,7 +1,7 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch | Beth Barnham
+title: Get in touch
 ---
 Want to talk SEO or do you need a speaker for your event? I'd love to help.
 
