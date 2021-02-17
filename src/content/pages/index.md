@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Beth Barnham
 tagline: SEO Specialist
-featuredImage: /assets/beth.jpg
+featuredImage: /assets/Beth.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
