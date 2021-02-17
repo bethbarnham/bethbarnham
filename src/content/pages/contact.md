@@ -5,4 +5,4 @@ title: Get in touch | Beth Barnham
 ---
 Want to talk SEO or do you need a speaker for your event? I'd love to help.
 
-Just send me a message using the form below or on [Twitter](https://twitter.com/bethbarnham_)
+Just send me a message using the form below or on [Twitter](https://twitter.com/bethbarnham)
