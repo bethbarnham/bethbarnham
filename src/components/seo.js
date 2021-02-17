@@ -26,8 +26,8 @@ const SEO = ({ title, description, image, article }) => {
 
   return (
     <Helmet title={seo.title} titleTemplate={titleTemplate}>
-      <html lang="en-US"/>
-      <link rel="alternate" href={seo.url} hreflang="en-us" />
+      <html lang="en-GB"/>
+      <link rel="alternate" href={seo.url} hreflang="en-GB" />
       <link rel="alternate" href={seo.url} hreflang="en" />
       <link rel="alternate" href={seo.url} hreflang="x-default" />
       <meta name="description" content={seo.description} />
