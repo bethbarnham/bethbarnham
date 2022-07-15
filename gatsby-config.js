@@ -80,8 +80,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Beth Barnham`,
-        short_name: `Beth Barnham`,
+        name: ``,
+        short_name: ``,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
