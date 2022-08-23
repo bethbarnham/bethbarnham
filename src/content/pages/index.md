@@ -8,4 +8,4 @@ cta:
   ctaText: More about me
   ctaLink: /about
 ---
-I'm an SEO Specialist based in Cardiff, Wales.
+I'm an Technical SEO Specialist based in Cardiff, Wales.
